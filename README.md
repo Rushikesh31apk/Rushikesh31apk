@@ -11,6 +11,7 @@
 - 📫 How to reach me on email **narawaderushikesh@gmail.com**
 
 - ⚡ Fun fact **I am funny😅**
+- Also Reach Out : **https://bio.link/rushikes82**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="[https://linkedin.com/in/muhammad-noman59](https://www.linkedin.com/in/rushikesh-narawade-65a095236/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rushikesh-narawade" height="35" width="35" /></a> </p>
