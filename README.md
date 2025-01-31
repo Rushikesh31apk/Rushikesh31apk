@@ -30,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rushikesh31apk&show_icons=true&locale=en" alt="rushikesh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rushikesh31apk&" alt="muhammad-noman59" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rushikesh31apk&" /></p>
 
 
 
