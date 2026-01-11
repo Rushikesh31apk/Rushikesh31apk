@@ -1,17 +1,17 @@
 ![logo](https://github.com/Muhammad-Noman59/Muhammad-Noman59/blob/main/GitHub-Cover-Image.png)
 <h1 align="center">Hi 👋, I'm Rushikesh Narawade</h1>
-<h3 align="center">I'm Full Stack Mobile Application Developer</h3>
+<h3 align="center">I'm Full Stack Web / Mobile Application Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-noman59&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-noman59" /> </p>
 
-- 👨‍💻 I’m currently learning **Full Stack Mobile Application Development**
+- 👨‍💻 I’m currently learning **Full Stack Web / Mobile Application Development**
 
 - 📫 How to reach me on email **narawaderushikesh@gmail.com**
 
 - ⚡ Fun fact **I am funny😅**
-- Also Reach Out : **https://bio.link/rushikes82**
+- Also Reach Out : **https://rushikesh31apk.bio.link**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="[https://linkedin.com/in/muhammad-noman59](https://www.linkedin.com/in/rushikesh-narawade-65a095236/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rushikesh-narawade" height="35" width="35" /></a> </p>
