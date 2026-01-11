@@ -10,7 +10,7 @@
 
 - 📫 How to reach me on email **narawaderushikesh@gmail.com**
 
-- ⚡ Fun fact **I am funny😅**
+- ⚡ Fun fact **I am learning things with funny way😅**
 - Also Reach Out : **https://rushikesh31apk.bio.link**
 
 <h3 align="left">Connect with me:</h3>
